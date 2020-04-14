@@ -10,7 +10,7 @@ public class TestLog {
 
     //String key = "product_info_:" + productId;
     public static void main(String[] args) {
-        String path = "C:\\Users\\duncan\\Desktop\\log.log";
+        String path = "C:\\Users\\duncan\\Desktop\\log.log--leo";
         String line = null;
         BufferedReader reader = null;
         try {
